@@ -7,4 +7,4 @@ Escape Game managing software SCHOOL PROJECT
 
 # test
 
-<img src="https://tenor.com/view/rabbit-creepy-gif-10908693.gif" width="80%">
+<img src="https://tenor.com/view/rabbit-creepy-gif-10908693.gif" width="300px">
